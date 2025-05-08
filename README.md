@@ -34,17 +34,6 @@ If you'd like to run this project locally, follow these simple steps:
 
 ---
 
-## 📸 Screenshots
-
-Here’s a sneak peek of what the website looks like:
-
-### Landing Page:
-![Landing Page](https://via.placeholder.com/1200x400)
-
-### Product Listing:
-![Product Listing](https://via.placeholder.com/800x600)
-
----
 
 ## 🤔 About the Project
 
@@ -56,8 +45,3 @@ This project was part of my learning journey to improve web development skills. 
 
 Feel free to open an issue if you spot any bugs or have suggestions for improvements. I'd love to hear what you think!
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License – feel free to fork or modify it for personal or educational use.
